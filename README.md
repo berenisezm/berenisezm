@@ -5,7 +5,7 @@
 * Tengo 22 años
 * Soy estudiante de noveno semestre de la carrera de Ciencias Computacionales.
 * Estudio en la Facultad de Ciencias Físico Matemáticas.
-* Actualmente tengo interés en el área de desarroll web y en el área de base de datos.
+* Actualmente tengo interés en el área de desarrollo web y en el área de base de datos.
 * Estoy en busca de oportunidad de trabajo.
 
 ## Tecnologías
@@ -19,4 +19,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ##Contacto
-Puedes contactarme por medio de ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) o ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Puedes contactarme por medio de 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berenisezm/)
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
