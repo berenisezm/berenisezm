@@ -23,5 +23,3 @@ Puedes contactarme por medio de
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berenisezm/)
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:berenisezm@gmail.com))
 
-
-[![Enviar un correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@ejemplo.com?subject=Consulta&body=Hola,%20quisiera%20saber%20más%20sobre%20su%20servicio.)
