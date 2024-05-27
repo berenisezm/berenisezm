@@ -1,5 +1,5 @@
 # 💫Bienvenid@s💫
-![Portada Readme](portada.png)
+
 
 ## Sobre mí☝🏽
 * Tengo 22 años
